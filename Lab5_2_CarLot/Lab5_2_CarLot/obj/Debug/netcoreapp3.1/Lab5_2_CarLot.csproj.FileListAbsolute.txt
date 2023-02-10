@@ -1,0 +1,13 @@
+C:\Dev\Week5\Lab5_2_CarLot\Lab5_2_CarLot\bin\Debug\netcoreapp3.1\Lab5_2_CarLot.exe
+C:\Dev\Week5\Lab5_2_CarLot\Lab5_2_CarLot\bin\Debug\netcoreapp3.1\Lab5_2_CarLot.deps.json
+C:\Dev\Week5\Lab5_2_CarLot\Lab5_2_CarLot\bin\Debug\netcoreapp3.1\Lab5_2_CarLot.runtimeconfig.json
+C:\Dev\Week5\Lab5_2_CarLot\Lab5_2_CarLot\bin\Debug\netcoreapp3.1\Lab5_2_CarLot.runtimeconfig.dev.json
+C:\Dev\Week5\Lab5_2_CarLot\Lab5_2_CarLot\bin\Debug\netcoreapp3.1\Lab5_2_CarLot.dll
+C:\Dev\Week5\Lab5_2_CarLot\Lab5_2_CarLot\bin\Debug\netcoreapp3.1\Lab5_2_CarLot.pdb
+C:\Dev\Week5\Lab5_2_CarLot\Lab5_2_CarLot\obj\Debug\netcoreapp3.1\Lab5_2_CarLot.csprojAssemblyReference.cache
+C:\Dev\Week5\Lab5_2_CarLot\Lab5_2_CarLot\obj\Debug\netcoreapp3.1\Lab5_2_CarLot.AssemblyInfoInputs.cache
+C:\Dev\Week5\Lab5_2_CarLot\Lab5_2_CarLot\obj\Debug\netcoreapp3.1\Lab5_2_CarLot.AssemblyInfo.cs
+C:\Dev\Week5\Lab5_2_CarLot\Lab5_2_CarLot\obj\Debug\netcoreapp3.1\Lab5_2_CarLot.csproj.CoreCompileInputs.cache
+C:\Dev\Week5\Lab5_2_CarLot\Lab5_2_CarLot\obj\Debug\netcoreapp3.1\Lab5_2_CarLot.dll
+C:\Dev\Week5\Lab5_2_CarLot\Lab5_2_CarLot\obj\Debug\netcoreapp3.1\Lab5_2_CarLot.pdb
+C:\Dev\Week5\Lab5_2_CarLot\Lab5_2_CarLot\obj\Debug\netcoreapp3.1\Lab5_2_CarLot.genruntimeconfig.cache

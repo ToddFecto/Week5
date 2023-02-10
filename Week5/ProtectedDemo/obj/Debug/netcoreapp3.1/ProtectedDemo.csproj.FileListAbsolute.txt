@@ -1,0 +1,12 @@
+C:\Dev\Week5\Week5\ProtectedDemo\bin\Debug\netcoreapp3.1\ProtectedDemo.exe
+C:\Dev\Week5\Week5\ProtectedDemo\bin\Debug\netcoreapp3.1\ProtectedDemo.deps.json
+C:\Dev\Week5\Week5\ProtectedDemo\bin\Debug\netcoreapp3.1\ProtectedDemo.runtimeconfig.json
+C:\Dev\Week5\Week5\ProtectedDemo\bin\Debug\netcoreapp3.1\ProtectedDemo.runtimeconfig.dev.json
+C:\Dev\Week5\Week5\ProtectedDemo\bin\Debug\netcoreapp3.1\ProtectedDemo.dll
+C:\Dev\Week5\Week5\ProtectedDemo\bin\Debug\netcoreapp3.1\ProtectedDemo.pdb
+C:\Dev\Week5\Week5\ProtectedDemo\obj\Debug\netcoreapp3.1\ProtectedDemo.AssemblyInfoInputs.cache
+C:\Dev\Week5\Week5\ProtectedDemo\obj\Debug\netcoreapp3.1\ProtectedDemo.AssemblyInfo.cs
+C:\Dev\Week5\Week5\ProtectedDemo\obj\Debug\netcoreapp3.1\ProtectedDemo.csproj.CoreCompileInputs.cache
+C:\Dev\Week5\Week5\ProtectedDemo\obj\Debug\netcoreapp3.1\ProtectedDemo.dll
+C:\Dev\Week5\Week5\ProtectedDemo\obj\Debug\netcoreapp3.1\ProtectedDemo.pdb
+C:\Dev\Week5\Week5\ProtectedDemo\obj\Debug\netcoreapp3.1\ProtectedDemo.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Dev\Week5\Week5\PetDemo\bin\Debug\netcoreapp3.1\PetDemo.exe
+C:\Dev\Week5\Week5\PetDemo\bin\Debug\netcoreapp3.1\PetDemo.deps.json
+C:\Dev\Week5\Week5\PetDemo\bin\Debug\netcoreapp3.1\PetDemo.runtimeconfig.json
+C:\Dev\Week5\Week5\PetDemo\bin\Debug\netcoreapp3.1\PetDemo.runtimeconfig.dev.json
+C:\Dev\Week5\Week5\PetDemo\bin\Debug\netcoreapp3.1\PetDemo.dll
+C:\Dev\Week5\Week5\PetDemo\bin\Debug\netcoreapp3.1\PetDemo.pdb
+C:\Dev\Week5\Week5\PetDemo\obj\Debug\netcoreapp3.1\PetDemo.csprojAssemblyReference.cache
+C:\Dev\Week5\Week5\PetDemo\obj\Debug\netcoreapp3.1\PetDemo.AssemblyInfoInputs.cache
+C:\Dev\Week5\Week5\PetDemo\obj\Debug\netcoreapp3.1\PetDemo.AssemblyInfo.cs
+C:\Dev\Week5\Week5\PetDemo\obj\Debug\netcoreapp3.1\PetDemo.csproj.CoreCompileInputs.cache
+C:\Dev\Week5\Week5\PetDemo\obj\Debug\netcoreapp3.1\PetDemo.dll
+C:\Dev\Week5\Week5\PetDemo\obj\Debug\netcoreapp3.1\PetDemo.pdb
+C:\Dev\Week5\Week5\PetDemo\obj\Debug\netcoreapp3.1\PetDemo.genruntimeconfig.cache

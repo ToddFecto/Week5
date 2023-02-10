@@ -1,0 +1,13 @@
+C:\Dev\Week5\Week5\VideoStore\bin\Debug\netcoreapp3.1\VideoStore.exe
+C:\Dev\Week5\Week5\VideoStore\bin\Debug\netcoreapp3.1\VideoStore.deps.json
+C:\Dev\Week5\Week5\VideoStore\bin\Debug\netcoreapp3.1\VideoStore.runtimeconfig.json
+C:\Dev\Week5\Week5\VideoStore\bin\Debug\netcoreapp3.1\VideoStore.runtimeconfig.dev.json
+C:\Dev\Week5\Week5\VideoStore\bin\Debug\netcoreapp3.1\VideoStore.dll
+C:\Dev\Week5\Week5\VideoStore\bin\Debug\netcoreapp3.1\VideoStore.pdb
+C:\Dev\Week5\Week5\VideoStore\obj\Debug\netcoreapp3.1\VideoStore.csprojAssemblyReference.cache
+C:\Dev\Week5\Week5\VideoStore\obj\Debug\netcoreapp3.1\VideoStore.AssemblyInfoInputs.cache
+C:\Dev\Week5\Week5\VideoStore\obj\Debug\netcoreapp3.1\VideoStore.AssemblyInfo.cs
+C:\Dev\Week5\Week5\VideoStore\obj\Debug\netcoreapp3.1\VideoStore.csproj.CoreCompileInputs.cache
+C:\Dev\Week5\Week5\VideoStore\obj\Debug\netcoreapp3.1\VideoStore.dll
+C:\Dev\Week5\Week5\VideoStore\obj\Debug\netcoreapp3.1\VideoStore.pdb
+C:\Dev\Week5\Week5\VideoStore\obj\Debug\netcoreapp3.1\VideoStore.genruntimeconfig.cache
